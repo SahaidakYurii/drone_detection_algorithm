@@ -1,0 +1,15 @@
+# Data Manipulation & Math
+pandas
+numpy
+scipy
+
+# Visualization
+matplotlib
+seaborn
+
+# Utilities & Progress Bars
+tqdm
+huggingface_hub
+
+# Hardware/Serial Communication
+pyserial

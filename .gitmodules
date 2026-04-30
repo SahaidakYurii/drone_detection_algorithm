@@ -1,6 +1,3 @@
-[submodule "src/drone_detector_firmware_fizik"]
-	path = src/drone_detector_firmware_fizik
-	url = git@github.com:SahaidakYurii/drone_detector_firmware_fizik.git
 [submodule "src/drone_detection_crossplatform_testing"]
 	path = src/drone_detection_crossplatform_testing
 	url = git@github.com:SahaidakYurii/drone_detection_crossplatform_testing.git
